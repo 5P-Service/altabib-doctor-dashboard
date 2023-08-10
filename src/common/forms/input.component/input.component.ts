@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: '5ps-input',
+  selector: 'altb-input',
   templateUrl: './input.component.html',
   styleUrls: ['./input.component.scss']
 })

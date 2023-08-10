@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'fps-switcher',
+  selector: 'altb-switcher',
   templateUrl: './switcher.component.html',
   styleUrls: ['./switcher.component.scss']
 })

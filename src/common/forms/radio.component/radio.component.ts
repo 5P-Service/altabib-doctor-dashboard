@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-radio',
+  selector: 'altb-radio',
   templateUrl: './radio.component.html',
   styleUrls: ['./radio.component.scss']
 })
