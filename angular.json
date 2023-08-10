@@ -30,7 +30,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/gotham-rounded.css",
+              "src/assets/css/colors.css",
+              "src/assets/css/grid.css",
+              "src/assets/css/grid.rtl.css"
             ],
             "scripts": []
           },
